@@ -1,0 +1,4 @@
+C:\Users\bmorg\source\repos\MiniSmartHomeLib1\MiniSmartHomeLib1\obj\Debug\net10.0\MiniSmartHomeLib1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmorg\source\repos\MiniSmartHomeLib1\MiniSmartHomeLib1\obj\Debug\net10.0\MiniSmartHomeLib1.AssemblyInfoInputs.cache
+C:\Users\bmorg\source\repos\MiniSmartHomeLib1\MiniSmartHomeLib1\obj\Debug\net10.0\MiniSmartHomeLib1.AssemblyInfo.cs
+C:\Users\bmorg\source\repos\MiniSmartHomeLib1\MiniSmartHomeLib1\obj\Debug\net10.0\MiniSmartHomeLib1.csproj.CoreCompileInputs.cache
